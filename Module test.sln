@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module test", "Module test.csproj", "{3E782997-9798-47A8-9D06-EF07F4F32CD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Passwrd.test", "..\Calculator.test\Passwrd.test.csproj", "{157EE1C6-CB56-475A-8943-C80E9FCFFE94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E782997-9798-47A8-9D06-EF07F4F32CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E782997-9798-47A8-9D06-EF07F4F32CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E782997-9798-47A8-9D06-EF07F4F32CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E782997-9798-47A8-9D06-EF07F4F32CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{157EE1C6-CB56-475A-8943-C80E9FCFFE94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{157EE1C6-CB56-475A-8943-C80E9FCFFE94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{157EE1C6-CB56-475A-8943-C80E9FCFFE94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{157EE1C6-CB56-475A-8943-C80E9FCFFE94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15B074D9-7353-406C-8DB6-65622B5C80E2}
+	EndGlobalSection
+EndGlobal
